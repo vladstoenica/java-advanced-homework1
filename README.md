@@ -1,0 +1,1 @@
+Ambele exercitii au cate un main. Fisierul cu words pentru aplicatia de Stream se umple singur la rulare si toata aplicatia e in StreamMain. Pentru a doua aplicatie, PizzaMain contine meniul cu optiuni iar in PizzaKitchen e metoda care simuleaza prepararea de pizza, care opreste thread-ul 10 sec.
